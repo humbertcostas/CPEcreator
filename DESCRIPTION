@@ -11,4 +11,11 @@ Encoding: UTF-8
 LazyData: true
 Requires:
   net.security,
-  dplyr
+  dplyr,
+  caret,
+  digest,
+  kernlab,
+  splitstackshape,
+  tm,
+  uuid
+RoxygenNote: 6.1.0
